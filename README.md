@@ -163,8 +163,6 @@ Your task is to set up a NestJS backend, focusing on building an employee manage
 
 - Source code for the NestJS application, including the employee module and email service.
 - Instructions on how to set up and run the application.
-- Feel free to submit your result as a public or private repo
-  - If you decide to go for a private repo, please make sure to invite the following collaborators: samim@project-b.dev, nikola@project-b.dev, yannik@project-b.dev.
 
 ### 🗣️ Discussion Points for Review:
 
